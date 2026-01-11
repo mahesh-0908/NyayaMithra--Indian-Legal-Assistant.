@@ -1,0 +1,7 @@
+{
+  "name": "NyayaMithra: Indian Legal Assistant",
+  "description": "An intelligent AI assistant specializing in the Indian legal system, providing guidance on BNS, IPC, CRPC, and various civil laws with real-time web search grounding.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
